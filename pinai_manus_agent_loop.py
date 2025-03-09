@@ -66,7 +66,7 @@ def main():
     # Create and start agent handler
     handler = ManusAgentHandler(
         api_key="pin_MTI0MDAwMTM6NTI5Mzg_Toouz5tmIo2WzCp8",
-        agent_id=42  # [PINAI]Hackathon Assistant
+        agent_id=134
     )
     
     try:

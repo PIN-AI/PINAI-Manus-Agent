@@ -35,7 +35,7 @@ def main():
     logger.info("Starting PINAI agent service...")
     client.start_and_run(
         on_message_callback=on_message,
-        agent_id=121  # [PINAI]Hackathon Assistant
+        agent_id=134  # [PINAI]
     )
 
 if __name__ == "__main__":

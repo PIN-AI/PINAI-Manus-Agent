@@ -57,6 +57,6 @@ api_key = "sk-..."  # Replace with your actual API key
 Run PINAI-Manus-Agent with a single command:
 
 ```bash
-python main.py
+python pinai_manus_agent.py
 ```
 
