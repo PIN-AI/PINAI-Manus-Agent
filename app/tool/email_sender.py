@@ -101,8 +101,8 @@ You can specify recipients, subject, body content, and optional attachments.
             
             # Get credentials from environment variables for security
             email = "smile@pinai.io"
-            # password = os.environ.get("EMAIL_PASSWORD")
-            password = "duzbxsuobkvrnbka"
+            password = os.environ.get("EMAIL_PASSWORD")
+            
             
             if not password:
                 return "Error: EMAIL_PASSWORD environment variable not set"
