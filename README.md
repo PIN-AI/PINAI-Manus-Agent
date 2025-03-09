@@ -1,4 +1,5 @@
 # PINAI-Manus-Agent
+<img src="logo.png" alt="logo" width="300" />
 
 ## Demo Video
 Watch our demo video: [PINAI-Manus-Agent Demo](https://youtu.be/0lqii2_79sE)
